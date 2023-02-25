@@ -1,2 +1,2 @@
-# Cpp_Projects_Codecademy
+# C++ Bootcamp Projects
 Projects built in Codecademy's C++ course. 
