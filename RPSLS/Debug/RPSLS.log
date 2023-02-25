@@ -1,3 +1,0 @@
-﻿  rpsls.cpp
-C:\Users\smhaq\OneDrive\Desktop\Projects\RPSLS\rpsls.cpp(7,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  RPSLS.vcxproj -> C:\Users\smhaq\OneDrive\Desktop\Projects\Debug\RPSLS.exe

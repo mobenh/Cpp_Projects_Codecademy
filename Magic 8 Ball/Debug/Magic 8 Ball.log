@@ -1,3 +1,0 @@
-﻿  magic_8_ball.cpp
-C:\Users\smhaq\OneDrive\Desktop\Projects\Magic 8 Ball\magic_8_ball.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Magic 8 Ball.vcxproj -> C:\Users\smhaq\OneDrive\Desktop\Projects\Debug\Magic 8 Ball.exe
